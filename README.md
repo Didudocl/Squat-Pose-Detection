@@ -6,8 +6,8 @@ Este repositorio implementa un sistema de detección de pose, específicamente e
 
 ## 🧪 Pasos para correr el código
 
-1. Tener instalado **Git**.
-2. Tener instalado **Python 3.11** o una versión compatible.
+1. Tener instalado [**Git**](https://git-scm.com/downloads).
+2. Tener instalado [**Python 3.11**](https://www.python.org/downloads/release/python-31112/) o una versión compatible.
 3. Crear un entorno virtual:
 
 ```bash
